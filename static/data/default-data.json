@@ -1,0 +1,16 @@
+{
+  "result": {
+    "menu": [
+      {
+        "name": "刮刮乐组件",
+        "description": "这是学习canvas之后的一个简单应用的例子，现已移植到vue，并封装成一个简单的组件",
+        "path": "/ScratchDemo"
+      },
+      {
+        "name": "大转盘组件",
+        "description": "这是一个基于canvas绘制的大转盘，不使用css进行控制转盘旋转，全部通过canvas的方法实现",
+        "path": "/TurnTableDemo"
+      }
+    ]
+  }
+}
